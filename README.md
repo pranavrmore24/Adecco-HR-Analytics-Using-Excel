@@ -1,15 +1,15 @@
 ## 📊 Dashboard Screenshots
 
-### Page 1: Executive Overview
+### Dashboard 1: Executive Overview
 ![Dashboard 1 - Executive Overview](Dashboard%20Screenshots/Dashboard%201%20(Executive%20Overview).png)
 
-### Page 2: Attrition Analysis
+### Dashboard 2: Attrition Analysis
 ![Dashboard 2 - Attrition Analysis](Dashboard%20Screenshots/Dashboard%202%20(Attrition%20Analysis).png)
 
-### Page 3: Job Satisfaction Analysis
+### Dashboard 3: Job Satisfaction Analysis
 ![Dashboard 3 - Job Satisfaction Analysis](Dashboard%20Screenshots/Dashboard%203%20(Job%20Satisfaction%20Analysis).png)
 
-### Page 4: Retention Analysis
+### Dashboard 4: Retention Analysis
 ![Dashboard 4 - Retention Analysis](Dashboard%20Screenshots/Dashboard%204%20(Retention%20Analysis).png)
 
 # Adecco HR Analytics – Employee Attrition Analysis Using Excel
